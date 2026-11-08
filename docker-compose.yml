@@ -1,0 +1,28 @@
+version: '3.8'
+
+services:
+  novapulse:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: novapulse-ai-studio
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+    environment:
+      - PORT=3000
+      - NODE_ENV=production
+      - APP_URL=http://localhost:3000
+      - NOVA_AI_API_KEY=${NOVA_AI_API_KEY}
+      - NOVA_AI_BASE_URL=${NOVA_AI_BASE_URL:-https://openrouter.ai/api/v1}
+      - NOVA_AI_MODEL=${NOVA_AI_MODEL:-openrouter/free}
+      - META_APP_ID=${META_APP_ID}
+      - META_APP_SECRET=${META_APP_SECRET}
+    volumes:
+      # Persist user data, accounts, series, and generated videos
+      - ./data:/app/data
+    healthcheck:
+      test: ["CMD", "wget", "-qO-", "http://localhost:3000/api/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3

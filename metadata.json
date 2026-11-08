@@ -1,0 +1,6 @@
+{
+  "name": "NovaPulse AI Studio",
+  "description": "منصة ذكاء اصطناعي متكاملة للتخطيط والإنتاج التلقائي للفيديوهات القصيرة ونشرها على فيسبوك بنظام متعدد المستخدمين",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
