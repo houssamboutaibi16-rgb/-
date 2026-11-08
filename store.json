@@ -1,0 +1,239 @@
+{
+  "users": {
+    "45654a94-f22c-4c2a-8ffe-a8881442dd17": {
+      "id": "45654a94-f22c-4c2a-8ffe-a8881442dd17",
+      "name": "أحمد المنصوري",
+      "email": "creator@novapulse.ai",
+      "passwordHash": "d50f0a869e4beb4803805ce895a68c3562fcb9cdae8e6436b8706526009ae50e2f07dba2744806d3a9a5a4478e6dbd5608bdb558ccaefa185ba5503722a6eda6",
+      "salt": "9eb252710cc35402e5ba0380fb357b33",
+      "createdAt": "2026-11-08T14:44:55.847Z",
+      "settings": {
+        "autoProduceEnabled": false,
+        "dailyTarget": 2,
+        "publishTimes": [
+          "14:00",
+          "20:00"
+        ],
+        "preferredTheme": "dark",
+        "preferredStyle": "cinematic"
+      },
+      "facebook": {
+        "connected": false,
+        "status": "disconnected"
+      }
+    },
+    "c835a1be-861e-40eb-a419-f7a2c065386a": {
+      "id": "c835a1be-861e-40eb-a419-f7a2c065386a",
+      "name": "سارة العلمي",
+      "email": "studio2@novapulse.ai",
+      "passwordHash": "117ef7eac58c2a5582f5976cf8ebc06b04b22b2e0d225ba74349950f51d48e8200084bcf46cfe7dbbde8eaf1d49ec98f60bdb4b813a90fb715bd0cdbb1625791",
+      "salt": "7311f6ace3b4a891feb02c946b0efd53",
+      "createdAt": "2026-11-08T14:44:55.869Z",
+      "settings": {
+        "autoProduceEnabled": false,
+        "dailyTarget": 2,
+        "publishTimes": [
+          "14:00",
+          "20:00"
+        ],
+        "preferredTheme": "dark",
+        "preferredStyle": "cinematic"
+      },
+      "facebook": {
+        "connected": false,
+        "status": "disconnected"
+      }
+    }
+  },
+  "sessions": {},
+  "series": {
+    "f9a01259-9b9c-4599-a47c-749669e4196e": {
+      "title": "أسرار الذكاء الاصطناعي",
+      "description": "",
+      "topic": "تطبيقات الذكاء الاصطناعي العملية",
+      "language": "ar",
+      "style": "educational",
+      "targetDuration": 65,
+      "id": "f9a01259-9b9c-4599-a47c-749669e4196e",
+      "userId": "45654a94-f22c-4c2a-8ffe-a8881442dd17",
+      "currentEpisode": 0,
+      "episodesCount": 0,
+      "createdAt": "2026-11-08T14:44:55.863Z",
+      "updatedAt": "2026-11-08T14:44:55.863Z"
+    }
+  },
+  "videos": {
+    "682d4d24-076e-4e55-93d9-43a7751a46ff": {
+      "id": "682d4d24-076e-4e55-93d9-43a7751a46ff",
+      "userId": "45654a94-f22c-4c2a-8ffe-a8881442dd17",
+      "title": "أسرار النجاح والذكاء الاصطناعي في 60 ثانية",
+      "description": "اكتشف كيف يغير الذكاء الاصطناعي العالم اليوم وماذا تحتاج لتبدأ خطوتك الأولى! 🚀 #NovaPulse #Reels #فيسبوك",
+      "hashtags": [
+        "#NovaPulse",
+        "#Reels",
+        "#ذكاء_اصطناعي"
+      ],
+      "duration": 65,
+      "aspectRatio": "9:16",
+      "status": "ready",
+      "script": {
+        "title": "أسرار النجاح والذكاء الاصطناعي في 60 ثانية",
+        "description": "اكتشف كيف يغير الذكاء الاصطناعي العالم اليوم وماذا تحتاج لتبدأ خطوتك الأولى! 🚀 #NovaPulse #Reels #فيسبوك",
+        "hashtags": [
+          "#NovaPulse",
+          "#ريلز_فيسبوك",
+          "#ذكاء_اصطناعي",
+          "#تطوير_الذات",
+          "#تكنولوجيا"
+        ],
+        "hook": "هل تساءلت يوماً لماذا يتقدم البعض بسرعة بينما يقف الآخرون في مكانهم؟ السر يكمن في خطوة واحدة!",
+        "body": "في عالم يتسارع كل ثانية، الأدوات الرقمية أصبحت تصنع الفارق الحقيقي. من تنظيم وقتك إلى إنجاز أعمالك بذكاء. الأذكياء لا يعملون بجهد مضاعف، بل بأدوات أذكى.",
+        "cta": "شارك هذا الفيديو مع صديق يحتاج لسماع هذه الكلمات، واشترك في الصفحة للمزيد من المحتوى المميز!",
+        "scenes": [
+          {
+            "order": 1,
+            "narration": "هل تساءلت يوماً لماذا يتقدم البعض بسرعة بينما يقف الآخرون في مكانهم؟",
+            "duration": 12,
+            "visualPrompt": "انتقال سينمائي وضوء نيون رقمي مع حركة ديناميكية تجذب الانتباه",
+            "visualType": "neon_geometry",
+            "subtitle": "هل تساءلت يوماً عن سر التقدم السريع؟"
+          },
+          {
+            "order": 2,
+            "narration": "السر ليس في العمل الشاق فقط، بل في استخدام الأدوات الحديثة بذكاء واحترافية.",
+            "duration": 16,
+            "visualPrompt": "شبكة تكنولوجية متصلة وجسيمات بيانات متوهجة باللون الأزرق والبنفسجي",
+            "visualType": "tech_grid",
+            "subtitle": "العمل الذكي يتفوق دائماً على الجهد العشوائي"
+          },
+          {
+            "order": 3,
+            "narration": "من تنظيم أولوياتك إلى تسخير الذكاء الاصطناعي لإنجاز مهامك في دقائق معدودة.",
+            "duration": 18,
+            "visualPrompt": "موجات طاقة متدفقة ترمز للسرعة والإنجاز المتواصل",
+            "visualType": "abstract_wave",
+            "subtitle": "حوّل ساعات العمل إلى دقائق من الإنجاز"
+          },
+          {
+            "order": 4,
+            "narration": "ابدأ اليوم ولا تنتظر الغد، لأن الفرص لا تنتظر المترددين!",
+            "duration": 14,
+            "visualPrompt": "توهج ذهبي وانفجار جزيئات سينمائي احتفالي",
+            "visualType": "particles",
+            "subtitle": "ابدأ الآن.. فرصتك تصنعها بنفسك!"
+          }
+        ]
+      },
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "shares": 0,
+        "comments": 0
+      },
+      "createdAt": "2026-11-08T14:45:24.121Z",
+      "updatedAt": "2026-11-08T14:45:24.121Z"
+    }
+  },
+  "queue": {},
+  "activityLogs": [
+    {
+      "id": "bf8e4d93-b477-43f5-a380-14888bd2532c",
+      "userId": "45654a94-f22c-4c2a-8ffe-a8881442dd17",
+      "type": "auth",
+      "title": "تسجيل دخول ناجح",
+      "description": "تم تسجيل الدخول إلى استوديو NovaPulse بنجاح",
+      "status": "success",
+      "timestamp": "2026-11-08T14:54:28.410Z"
+    },
+    {
+      "id": "c8f50de1-3adc-4b42-8bc4-382d2cfdd252",
+      "userId": "45654a94-f22c-4c2a-8ffe-a8881442dd17",
+      "type": "auth",
+      "title": "تسجيل دخول ناجح",
+      "description": "تم تسجيل الدخول إلى استوديو NovaPulse بنجاح",
+      "status": "success",
+      "timestamp": "2026-11-08T14:53:29.045Z"
+    },
+    {
+      "id": "64bd8314-9e03-4062-8f7a-befa86ebc983",
+      "userId": "45654a94-f22c-4c2a-8ffe-a8881442dd17",
+      "type": "auth",
+      "title": "تسجيل دخول ناجح",
+      "description": "تم تسجيل الدخول إلى استوديو NovaPulse بنجاح",
+      "status": "success",
+      "timestamp": "2026-11-08T14:52:28.930Z"
+    },
+    {
+      "id": "80ffa125-dc21-4c47-bb8f-4376ceae4a16",
+      "userId": "45654a94-f22c-4c2a-8ffe-a8881442dd17",
+      "type": "ai_generation",
+      "title": "إنشاء مسودة فيديو",
+      "description": "تم تحضير محتوى فيديو: \"أسرار النجاح والذكاء الاصطناعي في 60 ثانية\"",
+      "status": "info",
+      "timestamp": "2026-11-08T14:45:24.122Z"
+    },
+    {
+      "id": "428b1e92-e386-4028-a3ed-6ee498476fbc",
+      "userId": "45654a94-f22c-4c2a-8ffe-a8881442dd17",
+      "type": "ai_generation",
+      "title": "توليد سيناريو فيديو",
+      "description": "تم توليد سيناريو احترافي لموضوع: \"كيف تبدأ مشروع رقمي بدون رأس مال\" (NovaPulse Local Engine (Offline-Safe))",
+      "status": "success",
+      "timestamp": "2026-11-08T14:45:24.115Z"
+    },
+    {
+      "id": "34e9e9af-de25-4e60-920f-22497125c05f",
+      "userId": "45654a94-f22c-4c2a-8ffe-a8881442dd17",
+      "type": "auth",
+      "title": "تسجيل دخول ناجح",
+      "description": "تم تسجيل الدخول إلى استوديو NovaPulse بنجاح",
+      "status": "success",
+      "timestamp": "2026-11-08T14:45:23.752Z"
+    },
+    {
+      "id": "2f64437b-6ab8-400e-b3fc-c6bfc393b8a1",
+      "userId": "c835a1be-861e-40eb-a419-f7a2c065386a",
+      "type": "auth",
+      "title": "إنشاء حساب جديد",
+      "description": "تم تسجيل حساب المستخدم بنجاح (studio2@novapulse.ai)",
+      "status": "success",
+      "timestamp": "2026-11-08T14:44:55.869Z"
+    },
+    {
+      "id": "b615c33a-0b0f-4a8b-bfd5-eeff88522a39",
+      "userId": "45654a94-f22c-4c2a-8ffe-a8881442dd17",
+      "type": "system",
+      "title": "إنشاء سلسلة جديدة",
+      "description": "تم إنشاء سلسلة: \"أسرار الذكاء الاصطناعي\"",
+      "status": "success",
+      "timestamp": "2026-11-08T14:44:55.863Z"
+    },
+    {
+      "id": "43d3ab8f-e93c-4ee9-98c7-6a38df3f35e1",
+      "userId": "45654a94-f22c-4c2a-8ffe-a8881442dd17",
+      "type": "auth",
+      "title": "إنشاء حساب جديد",
+      "description": "تم تسجيل حساب المستخدم بنجاح (creator@novapulse.ai)",
+      "status": "success",
+      "timestamp": "2026-11-08T14:44:55.847Z"
+    }
+  ],
+  "chatMessages": {
+    "45654a94-f22c-4c2a-8ffe-a8881442dd17": [
+      {
+        "id": "fed62a0c-a0ea-475e-9d9e-1cc1a7a01a7f",
+        "userId": "45654a94-f22c-4c2a-8ffe-a8881442dd17",
+        "role": "user",
+        "content": "اقترح فكرة ريلز فيسبوك سريعة في سطر واحد",
+        "timestamp": "2026-11-08T14:52:28.948Z"
+      },
+      {
+        "id": "d91df9dd-da3c-4705-ba61-2adbf4e4d285",
+        "userId": "45654a94-f22c-4c2a-8ffe-a8881442dd17",
+        "role": "user",
+        "content": "أهلاً Nova AI",
+        "timestamp": "2026-11-08T14:53:29.053Z"
+      }
+    ]
+  }
+}
